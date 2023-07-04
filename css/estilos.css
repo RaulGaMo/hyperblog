@@ -1,5 +1,20 @@
 body{
-    color: purple ;
+    color: brown ;
     text-align: center;
     font-family: "Ariel";
+    font-size: 16px;
+}
+
+#container{
+    width: 78%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #777;
+    margin: 0 auto;
+
+}
+
+#container h1{
+    font-size: 20px;
+
 }
